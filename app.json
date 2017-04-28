@@ -1,0 +1,7 @@
+{
+    "name": "Ionic app",
+    "description": "Ionic app",
+    "repository": "https://github.com/dharmesh-kh24/pg-ionic3",
+    "logo": "http://ionicframework.com/img/ionic-logo-blog.png",
+    "keywords": ["ionic 2", "Angular 4", "node", "express", "heroku", "static"]
+}
